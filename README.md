@@ -10,6 +10,7 @@ A project to response questions by searching on Google the best anware and found
 
 *    [GoogleSearch](https://python-googlesearch.readthedocs.io/en/latest/)
 *    [Algorithmia](https://algorithmia.com/)
+*    [abc - Abstract Class](https://docs.python.org/pt-br/3/library/abc.html)
 
 ![Question](https://media.giphy.com/media/dXICCcws9oxxK/giphy.gif)
 
