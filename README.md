@@ -5,7 +5,11 @@ A project to response questions by searching on Google the best anware and found
 ### Technologies:
 *    Python 3
 *    JypterNotebook
-      
+
+### Example Funcionalities
+*     If is an juridic questions of Brazil its possible set the parameters isjuridic to true
+      *     When do this the search by default will be make in ['jus.com.br', 'www.procon.pr.gov.br', 'jusbrasil.com.br']
+*     If set parameter isdebug to True will show the steps ocurring in code
 ### Dependences:
 
 *    [GoogleSearch](https://python-googlesearch.readthedocs.io/en/latest/)
